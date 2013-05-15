@@ -1,0 +1,4 @@
+moosechess
+==========
+
+A chess engine.
